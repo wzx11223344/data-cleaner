@@ -1,4 +1,6 @@
 # data-cleaner
+[![CI](https://github.com/wzx11223344/data-cleaner/actions/workflows/ci.yml/badge.svg)](https://github.com/wzx11223344/data-cleaner/actions/workflows/ci.yml)
+
 
 数据清洗工具箱 - 10个高级算法驱动的数据预处理工具集（纯Python标准库实现）
 

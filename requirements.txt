@@ -1,3 +1,6 @@
 pandas
 numpy
 scikit-learn
+
+pytest>=7.0
+flake8>=6.0
